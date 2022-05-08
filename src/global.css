@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Escopo CSS usado pela plataforma (possível criar as classes css e mudar o css das tags html)*/
+
+body {
+  /* @apply bg-[#09090A] text-zinc-100; */
+  @apply bg-[#444444] text-zinc-100;
+}
