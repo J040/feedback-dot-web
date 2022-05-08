@@ -69,7 +69,7 @@ export function WidgetForm() {
       ) }
 
       <footer className="text-xs text-neutral-400">
-        Feito com ♥ pelo <a className="text-violet-300 hover:underline hover:underline-offset-1" href="https://github.com/J040">Rocketseat!</a>
+        Feito com ♥ pelo <a className="text-violet-300 hover:underline hover:underline-offset-1" href="https://github.com/J040">João!</a>
       </footer>
     </div>
   );
